@@ -1,0 +1,35 @@
+body
+{
+    background: url(https://thompsonandsmith.com/wp-content/uploads/2020/04/AdobeStock_328283604.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.group
+{
+    
+    color: rgb(23, 7, 247);
+    font-size: 25px ;
+    /* padding-top: 5px; */
+    padding: 5px 5px;
+    margin: 2%;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 20px;
+    background-color:wheat;
+    font-family: 'Anek Telugu', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Square Peg', cursive;
+text-shadow: 1px 1px 1px red;
+box-shadow: 1px 1px 1px black;
+
+}
+h1{
+    background-color: black;
+    box-shadow: 2px 2px 2px wheat;
+    text-shadow: 2px 2px 2px white;
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 20px;
+}
